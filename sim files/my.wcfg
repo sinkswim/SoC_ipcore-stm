@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Y:/Documents/VHDL projects/Assignment/STM_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="bip_utils_pkg_v2_0" />
+            <top_module name="mult_gen_pkg_v11_2" />
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_signed" />
+            <top_module name="std_logic_textio" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="stm_tb" />
+            <top_module name="textio" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/stm_tb/clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stm_tb/car_power_on" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">car_power_on</obj_property>
+      <obj_property name="ObjectShortName">car_power_on</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stm_tb/ok_status" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ok_status</obj_property>
+      <obj_property name="ObjectShortName">ok_status</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stm_tb/fault_status" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">fault_status</obj_property>
+      <obj_property name="ObjectShortName">fault_status</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stm_tb/debug_port" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">debug_port[31:0]</obj_property>
+      <obj_property name="ObjectShortName">debug_port[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stm_tb/clock_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clock_period</obj_property>
+      <obj_property name="ObjectShortName">clock_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stm_tb/uut/ecu_ut/state" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stm_tb/uut/ecu_ut/tmp_sig" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tmp_sig[31:0]</obj_property>
+      <obj_property name="ObjectShortName">tmp_sig[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stm_tb/uut/ecu_ut/a" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">a[15:0]</obj_property>
+      <obj_property name="ObjectShortName">a[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stm_tb/uut/ecu_ut/b" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">b[15:0]</obj_property>
+      <obj_property name="ObjectShortName">b[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stm_tb/uut/ecu_ut/p" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">p[31:0]</obj_property>
+      <obj_property name="ObjectShortName">p[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stm_tb/uut/ecu_ut/addr_ram" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addr_ram[10:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_ram[10:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stm_tb/uut/ecu_ut/addr_rom" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addr_rom[11:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_rom[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stm_tb/uut/ecu_ut/dout_rom" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dout_rom[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dout_rom[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stm_tb/uut/ecu_ut/din_ram" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">din_ram[31:0]</obj_property>
+      <obj_property name="ObjectShortName">din_ram[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stm_tb/uut/ecu_ut/dout_ram" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dout_ram[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dout_ram[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stm_tb/uut/ecu_ut/wea" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">wea[0:0]</obj_property>
+      <obj_property name="ObjectShortName">wea[0:0]</obj_property>
+   </wvobject>
+</wave_config>
