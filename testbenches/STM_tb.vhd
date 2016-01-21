@@ -1,3 +1,5 @@
+-- Robert Margelli, 2016
+
 LIBRARY IEEE;
 USE IEEE.STD_LOGIC_1164.ALL;
  
