@@ -23,4 +23,4 @@ Besides the testbench to test the overall system (STM_tb.vhd), tb for all 4 modu
 All have been tested using iSim.
 
 ## Synthesis
-The STM is synthesizable and has been programmed on an Artix-7 FPGA successfully.
+The STM is synthesizable and has been programmed successfully on an Artix-7 FPGA.
