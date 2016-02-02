@@ -1,5 +1,5 @@
 # infotainment-stm-soc
-VHDL files of a SoC for testing a car's infotainment module (tested on Xilinx Coregen Multiplier core).
+VHDL files of a SoC for testing Xilinx Coregen Multiplier core.  Although the test is performed on a specific core, the purpose is to provide a general overview of a circuit in charge of testing a car's infotainment module.
 
 The self-test module (STM) is comprised of:
     - ECU
